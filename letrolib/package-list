@@ -1,0 +1,8 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/letrolib/[root]/index.html
+$dokka.location:/Foo///PointingToDeclaration/letrolib/[root]/-foo/index.html
+$dokka.location:/Foo/Foo/#/PointingToDeclaration/letrolib/[root]/-foo/-foo.html
+$dokka.location:/Foo/bar/#/PointingToDeclaration/letrolib/[root]/-foo/bar.html
+
+
