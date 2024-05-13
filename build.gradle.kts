@@ -26,7 +26,7 @@ dependencies {
     val junit5Version = "5.10.2"
     testImplementation("org.junit.jupiter:junit-jupiter:$junit5Version")
     testImplementation("org.junit.jupiter:junit-jupiter-params:$junit5Version")
-    testImplementation("io.kotest:kotest-assertions-core-jvm:5.8.1")
+    testImplementation("io.kotest:kotest-assertions-core-jvm:5.9.0")
     testImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
     testImplementation("org.mockito:mockito-inline:5.2.0")
 }
