@@ -23,7 +23,7 @@ repositories {
 }
 
 dependencies {
-    val junit5Version = "5.10.2"
+    val junit5Version = "5.10.3"
     testImplementation("org.junit.jupiter:junit-jupiter:$junit5Version")
     testImplementation("org.junit.jupiter:junit-jupiter-params:$junit5Version")
     testImplementation("io.kotest:kotest-assertions-core-jvm:5.9.1")
